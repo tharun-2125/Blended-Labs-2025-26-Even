@@ -7,6 +7,9 @@ Author : your name   Reg no : yours   Date :
 
 ---
 
+# NAME - THARUN N 
+# REG NO - 212225240173
+
 ## Objective
 
 The objective of this lab is to understand how to design a scalable and highly available architecture on AWS using Auto Scaling and Elastic Load Balancing. This experiment focuses on distributing incoming traffic across multiple EC2 instances, automatically scaling resources based on demand, and validating fault tolerance.
@@ -71,6 +74,15 @@ Describe step-by-step how you performed this experiment in your own words.
 ---
 
 ## Output Screenshots 
+
+<img width="1920" height="1080" alt="Screenshot (113)" src="https://github.com/user-attachments/assets/0f14f7f8-a17e-4df2-b620-66aacc9aec3c" />
+<img width="1920" height="1080" alt="Screenshot (115)" src="https://github.com/user-attachments/assets/48663aab-7dd6-4880-a846-00df1adfe9bc" />
+<img width="1005" height="818" alt="Screenshot 2026-11-25 104315" src="https://github.com/user-attachments/assets/bfa348ea-aca3-43a4-bf7d-566ea71b2e41" />
+<img width="1006" height="810" alt="Screenshot 2026-11-25 104433" src="https://github.com/user-attachments/assets/762832cf-9035-4ecb-bd4a-638be3ad3a49" />
+<img width="1008" height="817" alt="Screenshot 2026-11-25 104528" src="https://github.com/user-attachments/assets/84d8f267-1c04-42f2-82e4-907803a57dd2" />
+<img width="1002" height="610" alt="Screenshot 2026-11-25 104724" src="https://github.com/user-attachments/assets/b6c52f7e-34d7-4d97-9276-27de62489e66" />
+<img width="896" height="790" alt="Screenshot 2026-11-25 105320" src="https://github.com/user-attachments/assets/020b61d7-689a-4d51-b92a-9db45780dd82" />
+<img width="891" height="807" alt="Screenshot 2026-11-25 105414" src="https://github.com/user-attachments/assets/376eab2f-7b20-4646-a637-9ee92d3f140e" />
 
 
 ---
